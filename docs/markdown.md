@@ -42,4 +42,4 @@ Las soluciones innovadoras tienen riesgo de no ser aceptadas por los clientes po
 
 [Lanzar cohetes con inercia](https://drive.google.com/uc?id=1Rg-_IdfZo8IdGTjaXUsa9lAvrK8NXm7V&export=view)
 
-![bg contain](https://drive.google.com/uc?id=11_6x3TW7c27XWbPWZBoJqHNdq3fJvrBt&export=view)
+![bg contain](https://drive.google.com/uc?id=11_6x3TW7c27XWbPWZBoJqHNdq3fJvrBt&export=view  =100x)

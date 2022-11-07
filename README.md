@@ -1,9 +1,4 @@
 # LC test
-> LC subtitle
+> LC subtitle on root
 
-
-## LC Content
-
-blah
-
-blah blah
+Content is in the docs folder (github pages is configured to look at it)

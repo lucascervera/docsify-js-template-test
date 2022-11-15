@@ -1,3 +1,36 @@
+<style>
+section {
+  padding: 50px;
+}
+
+header,
+footer {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  height: 20px;
+}
+
+header {
+  top: 10px;
+}
+
+footer {
+  bottom: 10px;
+}
+
+header > img:nth-child(2) {
+  float: right;
+}
+
+li {
+  font-size: 0.8em;
+}
+
+blockquote {
+  font-size: 0.6em;
+}
+</style>
 <!-- id Módulo_01_-_c_Content_-_001-0002__-_a_Concept_row_2 -->
 
 <!-- id business/innovation -->
